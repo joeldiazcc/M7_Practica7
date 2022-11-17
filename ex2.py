@@ -6,28 +6,28 @@ def showJson():
     datas = {
         'book': [
             {
-                'title': 'aaa',
-                'cover': 'a',
-                'year': '2001',
-                'pages': '121'
+                'title': 'Odisea, de Homero',
+                'cover': 'blanda',
+                'year': '2005',
+                'pages': '224'
             },
             {
-                'title': 'bbb',
-                'cover': 'b',
-                'year': '2002',
-                'pages': '122'
+                'title': 'Lolita, de Vladimir Nabokov',
+                'cover': 'dura',
+                'year': '1996',
+                'pages': '392'
             },
             {
-                'title': 'ccc',
-                'cover': 'c',
-                'year': '2003',
-                'pages': '123'
+                'title': 'El código Da Vinci, de Dan Brown',
+                'cover': 'dura',
+                'year': '2016',
+                'pages': '656'
             },
             {
-                'title': 'ddd',
-                'cover': 'd',
-                'year': '2004',
-                'pages': '124'
+                'title': 'Robinson Crusoe, de Daniel Defoe',
+                'cover': 'blanda',
+                'year': '1719',
+                'pages': '608'
             }
         ]
     }
